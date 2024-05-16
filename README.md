@@ -2,7 +2,7 @@ Issues with previous code:
 
 Lack of defensive coding techniques- null checks, try catch blocks
 
-plain text queries are at risk of dependency injection
+plain text queries are at risk of sql injection
 
 
 
